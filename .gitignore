@@ -1,0 +1,7 @@
+br_solar.rds
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
+*.Rproj
+rsconnect/
